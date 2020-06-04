@@ -1,12 +1,9 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
-</p>
 
 ## Description
-
-[Nest](https://github.com/nestjs/nest) TypeScript framework.
-[Docker](https://github.com/docker-library/docker) Containerization technology.
-[PostgreSQL](https://www.postgresql.org) Open source object-relational database.
+Used:<br>
+[Nest](https://github.com/nestjs/nest) TypeScript framework. <br>
+[Docker](https://github.com/docker-library/docker) Containerization technology. <br>
+[PostgreSQL](https://www.postgresql.org) Open source object-relational database. <br>
 
 ## Installation
 
