@@ -4,11 +4,13 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { configService } from './config/config.service';
 import { ItemModule } from './item/item.module';
+import { PointModule } from './point/point.module';
 
 @Module({
   imports: [
     TypeOrmModule.forRoot(configService.getTypeOrmConfig()),
-    ItemModule
+    ItemModule,
+    PointModule
   ],
   controllers: [AppController],
   providers: [AppService],
